@@ -1,0 +1,200 @@
+
+.container__1 {
+    border: 1px solid #DCDCDC;
+    margin: 20px;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.header__text {
+    font-family: lora;
+    font-size: 22px;
+    color: #505050;
+    margin-right: 20px;
+    letter-spacing: 0.23rem;
+}
+
+.app__logo {
+    height: 80px;
+    margin-left: 10px;
+}
+
+.app__header {
+    display: flex;
+    font-family: lora;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #fff;
+    margin-bottom: 25px;
+    box-shadow: 5px 10px #888888;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+
+.graph__1 {
+    height: 30vh;
+    width: 100%;
+}
+
+.input__heading {
+    color: #505050;
+    font-family: lora;
+    margin-bottom: 20px;
+}
+
+.section__heading {
+  /*  font-size: 15px;*/
+    color: #505050;
+    font-family: lora;
+    font-style: italic;
+    margin-top: 55px;
+    margin-bottom: -15px;
+}
+
+.input__container {
+    font-size: 18px;
+    font-family: lora;
+    margin-top: 35px;
+}
+
+.dropdown__container {
+    margin-top: 35px;
+    margin-bottom: 45px;
+}
+
+.text__input {
+    width: 99%;
+    height: 30px;
+    font-size: 15px;
+    font-family: sans-serif;
+  /*  color: #787878;*/
+    color: #505050;
+}
+
+.reag__select {
+    width: 100%;
+    height: 30px;
+    font-size: 15px;
+    font-family: sans-serif;
+    color: #787878;
+}
+
+.time__input {
+    width: 99%;
+    height: 30px;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+
+.number__input {
+    width: 99%;
+    height: 30px;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+
+.submit__button {
+    /*margin-top: 20px;*/
+    margin: 20px;
+    background-color: white;
+    color: #0066CC;
+    border: 1px solid #0066CC;
+    height: 35px;
+
+}
+
+.add__button {
+    background-color: white;
+    color: #0066CC;
+    border: 1px solid #0066CC;
+    height: 35px;
+}
+
+.del__button {
+    background-color: white;
+    color: #0066CC;
+    border: 1px solid #0066CC;
+    height: 35px;
+}
+
+.clear__button {
+    background-color: white;
+    color: #0066CC;
+    border: 1px solid #0066CC;
+    height: 35px;
+}
+
+.titre_tab{
+     font-family: lora;
+     text-align: center;
+     font-size: 90%;
+}
+
+.text_tab{
+     font-family: lora;
+     text-align: center;
+     font-size: 180%;
+}
+
+.table__1 {
+    width: 75%;
+    /*padding: auto;*/
+    margin: auto;
+    font-family: helvetica;
+    text-align: center;
+    /*font-size: 30%*/
+    /*overflow-y: auto;
+    max-height: 30vh;*/
+}
+
+.titre_kpi{
+     text-align: center;
+     font-size: 70%;
+}
+
+.text_kpi{
+     text-align: center;
+     font-size: 85%;
+}
+
+.table__container {
+    border: 1px solid #DCDCDC;
+    margin-top: 20px;
+    margin: 20px;
+    font-family: sans-serif;
+}
+
+.tabs__container {
+     font-family: lora;
+     font-size: 18px;
+     /*letter-spacing: 0.12rem;
+     border: 1px solid #DCDCDC;
+     box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);*/
+}
+
+.graph_container {
+    border: 1px solid #DCDCDC;
+    margin-top: 20px;
+    margin: 20px;
+    padding: 15px;
+}
+
+.container__1 {
+    padding-left: 10%;
+    padding-right: 5%;
+}
+
+.grid_container {
+    display: inline-grid;
+}
+
+.titre_partie_graph {
+     font-family: lora;
+     font-size: 160%;
+     font-style: bold;
+}
+
+.soustitre_partie_graph {
+     font-family: lora;
+     font-size: 80%;
+     font-style: italic;
+}
